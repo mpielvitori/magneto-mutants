@@ -1,0 +1,6 @@
+src/**
+tests/**
+yarn.lock
+webpack.config.js
+.eslintrc
+.babelrc
